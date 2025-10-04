@@ -1,7 +1,5 @@
 # m3u8-downloader-rs
 
-# m3u8_downloader
-
 `m3u8_downloader` 是一个基于 Rust 的命令行工具，用于下载 HLS (M3U8) 流并将其转换为 MP4。支持多并发下载、AES-CBC 解密、GPU 加速转码，并可自定义视频/音频码率及保留临时文件。
 
 ***
